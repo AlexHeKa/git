@@ -4,3 +4,4 @@ Git has a mutbale index called stage.
 Git tracks changes of files.
 Git is better than SVN.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
